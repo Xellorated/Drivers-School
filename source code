@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<link rel="shortcut icon" href="/themes/custom/twogen/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://my.yd.com/group/105" />
+
+    <title>Intro to Beginner Driver Education | Student Center</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_PyC3iXEq0JLnZf0t1Xc8wceFRChCp87fJPwDoiKVXNA.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_TL15DnMA6uNcgkRqzFJVmBI5X_OGc0smatvUtBhW5AQ.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_A9hN6LE3qkdHNFKZx9jYdJhD5IkXdJzxQu5Md_WSNvg.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="section-module top drawer drawer--right">
+    <ul class="skip-to-content">
+      <li><a href="#main-content" class="visually-hidden focusable">Skip to main content</a></li>
+          </ul>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="layout-container">
+
+  <header class="site-header">
+  <div class="top-header">
+    <div class="container-fluid">
+      <div class="row no-gutters">
+        <a href=" https://my.yd.com/dashboard" class="logo"><img src="/themes/custom/twogen/images/young-drivers-logo.png" alt=""></a>
+          <nav class="navbar navbar-expand-md navbar-yd flex-grow-1"><div class="d-none d-sm-flex flex-grow-1" id="topNav">
+  <ul class="navbar-nav ml-auto">
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="https://my.yd.com/student/details" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <i class="icons8-icons8-user-male-circle"></i><span class="d-none d-md-inline-block">hongdong@hotmail.com</span>
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="https://my.yd.com/student/details">Profile</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="https://my.yd.com/user/logout">Logout</a>
+      </div>
+    </li>
+  </ul>
+</div>
+<button class="navbar-toggler drawer-toggle">
+  <span class="icon-bar top-bar"></span>
+  <span class="icon-bar middle-bar"></span>
+  <span class="icon-bar bottom-bar"></span>
+</button></nav>
+
+      </div>
+    </div>
+  </div>
+  <div class="bottom-header">
+    <div class="container-fluid">
+      <div class="row no-gutters">
+        <div>
+          <a href="https://my.yd.com/dashboard" class="logo"><img src="/themes/custom/twogen/images/student-centre-logo.png" alt=""></a> <span class="site-title align-middle">myYD</span>
+        </div>
+          <nav class="navbar navbar-expand-lg navbar-yd-red flex-grow-1"><div class="collapse navbar-collapse h-100" id="bottomNav">  <ul class="navbar-nav ml-auto h-100">
+    <li class="nav-item">
+      <a class="nav-link" href="https://my.yd.com/dashboard"><i class="icons8-icons8-dashboard-filled"></i>Dashboard</a>
+    </li>
+        <li class="nav-item">
+      <a class="nav-link" href="https://my.yd.com/group/105"><i class="icons8-icons8-e-learning-filled"></i>E-Learning</a>
+    </li>
+            <li class="nav-item">
+      <a class="nav-link" href="https://yd.com/" target="_blank"><i class="icons8-yd-logo-icon"></i>YD.COM</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/user/logout"><i class="fas fa-sign-out-alt"></i>Logout</a>
+    </li>
+      </ul></div>
+</nav>
+
+      </div>
+    </div>
+  </div>
+  
+</header>
+
+      <nav class="navbar-yd-side drawer-nav"><div class="dropdown-profile"><div class="profile-avatar">
+            <div>  <img src="/sites/default/files/styles/thumbnail/public/default_images/Oval.png?itok=P2RsLs9g" width="60" height="60" alt="" typeof="foaf:Image" />
+
+
+</div>
+      </div>
+<div class="profile-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">
+  <span class="profile-name">hongdong@hotmail.com</span>
+  <span class="profile-class">YD Student</span>
+</a>
+<ul class="dropdown-menu animated fadeInRight m-t-xs">
+  <li><a class="dropdown-item" href="https://my.yd.com/student/details">Profile</a></li>
+  <li class="dropdown-divider"></li>
+  <li><a class="dropdown-item" href="https://my.yd.com/user/logout">Logout</a></li>
+</ul></div>
+</div>
+<div class="nav-container"><ul class="nav flex-column">
+  <li class="nav-item">
+    <a class="nav-link" href="https://my.yd.com/dashboard" data-toggle="tooltip" data-placement="right" title="Your Courses"><i class="icons8-icons8-garage"></i><span>Your Courses</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://my.yd.com/student/details" data-toggle="tooltip" data-placement="right" title="Account Details"><i class="icons8-icons8-user-male-circle"></i><span>Account Details</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://my.yd.com/student/payments" data-toggle="tooltip" data-placement="right" title="Payment History"><i class="icons8-icons8-order-history"></i><span>Payment History</span></a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link" href="/gift-certificate" data-toggle="tooltip" data-placement="right" title="Buy Gift Certificate"><i class="icons8-icons8-gift-card"></i><span>Buy Gift Certificate </span></a>
+  </li>
+    </ul></div>
+</nav>
+
+
+
+
+  <div id="panel">
+
+    <div class="container">
+      <main class="row" role="main">
+
+        <a id="main-content" tabindex="-1"></a>
+        <div class="layout-content opigno-module mto_approved_course" data-mto-approved-course="1" data-requires-reauthentication="0" data-f-nxt-btn-t="1" data-f-nxt-btn-ts="600" data-f-nxt-btn-s="0" data-f-bak-btn="1" data-f-nxt-btn-sp="" data-module-finished="false" data-activity-finished="">
+
+          <div class="col">
+
+            
+                          <h1>Young Drivers - Ontario - Beginner Driver Education</h1>
+                        
+
+                          <h2>
+  
+    
+      
+  Intro to Beginner Driver Education
+
+
+  
+</h2>
+            
+            <div class="lp_progress-container">
+                            <div class="faq-glossary-link">
+                <a href="/modal_dialog/FAQs_glossary?gl=1" class="use-ajax btn btn-green" data-dialog-type="modal">FAQs & Glossary</a>
+              </div>
+              <div class="faq-glossary-link">
+                <a href="/modal_dialog/Tech_help" class="use-ajax btn btn-green" data-dialog-type="modal">Support</a>
+              </div>
+              <p class="lp_progress_label">Course Training Progress</p>
+              <p class="lp_progress_value">0%</p>
+              <div class="lp_progress_bar">
+                <div class="lp_progress_bar_completed" style="width: 0%"></div>
+              </div>
+            </div>
+
+              <div class="col-12 region region-messages">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+            
+
+            
+
+            
+                          <h3>Common Collision Factors For Novice Drivers</h3>
+            
+              <div>
+    <div id="block-twogen-content">
+  
+    
+      <div class="opigno_activity">
+  
+            <div><div class="h5p-content" data-content-id="2906"></div></div>
+      </div>
+<form class="opigno-answer-opigno-h5p-form opigno-answer-form" data-drupal-selector="opigno-answer-opigno-h5p-form" action="/group/105/module/1112/answer/3052" method="post" id="opigno-answer-opigno-h5p-form" accept-charset="UTF-8">
+  <input id="activity-h5p-result" data-drupal-selector="edit-score" type="hidden" name="score" value="0" />
+<input id="activity-h5p-correct-response" data-drupal-selector="edit-correct-response" type="hidden" name="correct-response" value="0" />
+<input id="activity-h5p-response" data-drupal-selector="edit-response" type="hidden" name="response" value="0" />
+<input id="activity-h5p-xapi-data" data-drupal-selector="edit-xapi-data" type="hidden" name="xapi_data" value="0" />
+<input autocomplete="off" data-drupal-selector="form-acwluhqkhq2pouuskvv3odjlzjndwe0a7vvylnlspgw" type="hidden" name="form_build_id" value="form-ACWLuhQkhQ2POUUSKVV3ODJLzJNdwE0a7VVyLnLspGw" />
+<input data-drupal-selector="edit-opigno-answer-opigno-h5p-form-form-token" type="hidden" name="form_token" value="TwkVAlYHf42mofstvcUe0itrTQOay-oXbM5BpYGCKBA" />
+<input data-drupal-selector="edit-opigno-answer-opigno-h5p-form" type="hidden" name="form_id" value="opigno_answer_opigno_h5p_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-back" type="submit" id="edit-back" name="op" value="Back" class="button js-form-submit form-submit btn btn-blue" />
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Next" class="button button--primary js-form-submit form-submit btn float-right btn-green" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+      </main>
+    </div>
+
+  </div>
+
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"group\/105\/module\/1112\/answer\/3052","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"calendar\/calendar.theme,core\/drupal.active-link,core\/html5shiv,h5p\/h5p.advancedtext-1.1,h5p\/h5p.column-1.13,opigno_h5p\/opigno_h5p.main,opigno_learning_path\/global,opigno_module\/activity,opigno_module\/menu_icon,opigno_scorm\/opigno-scorm-ios-13,system\/base,tg2fa\/tg2fa_system,tgutilities\/h5p,twogen\/global-scripts,twogen\/global-styling","theme":"twogen","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"multiselect":{"widths":250},"h5p":{"H5PIntegration":{"baseUrl":"\/","url":"\/sites\/default\/files\/h5p","postUserStatistics":true,"ajax":{"setFinished":"\/h5p-ajax\/set-finished.json?token=4e2c2be903ac5","contentUserData":"\/h5p-ajax\/content-user-data\/:contentId\/:dataType\/:subContentId?token=d75a7d150156d"},"saveFreq":false,"l10n":{"H5P":{"fullscreen":"Fullscreen","disableFullscreen":"Disable fullscreen","download":"Download","copyrights":"Rights of use","embed":"Embed","size":"Size","showAdvanced":"Show advanced","hideAdvanced":"Hide advanced","advancedHelp":"Include this script on your website if you want dynamic sizing of the embedded content:","copyrightInformation":"Rights of use","close":"Close","title":"Title","author":"Author","year":"Year","source":"Source","license":"License","thumbnail":"Thumbnail","noCopyrights":"No copyright information available for this content.","reuse":"Reuse","reuseContent":"Reuse Content","reuseDescription":"Reuse this content.","downloadDescription":"Download this content as a H5P file.","copyrightsDescription":"View copyright information for this content.","embedDescription":"View the embed code for this content.","h5pDescription":"Visit H5P.org to check out more cool content.","contentChanged":"This content has changed since you last used it.","startingOver":"You\u0027ll be starting over.","by":"by","showMore":"Show more","showLess":"Show less","subLevel":"Sublevel","confirmDialogHeader":"Confirm action","confirmDialogBody":"Please confirm that you wish to proceed. This action is not reversible.","cancelLabel":"Cancel","confirmLabel":"Confirm","licenseU":"Undisclosed","licenseCCBY":"Attribution","licenseCCBYSA":"Attribution-ShareAlike","licenseCCBYND":"Attribution-NoDerivs","licenseCCBYNC":"Attribution-NonCommercial","licenseCCBYNCSA":"Attribution-NonCommercial-ShareAlike","licenseCCBYNCND":"Attribution-NonCommercial-NoDerivs","licenseCC40":"4.0 International","licenseCC30":"3.0 Unported","licenseCC25":"2.5 Generic","licenseCC20":"2.0 Generic","licenseCC10":"1.0 Generic","licenseGPL":"General Public License","licenseV3":"Version 3","licenseV2":"Version 2","licenseV1":"Version 1","licensePD":"Public Domain","licenseCC010":"CC0 1.0 Universal (CC0 1.0) Public Domain Dedication","licensePDM":"Public Domain Mark","licenseC":"Copyright","contentType":"Content Type","licenseExtras":"License Extras","changes":"Changelog","contentCopied":"Content is copied to the clipboard","connectionLost":"Connection lost. Results will be stored and sent when you regain connection.","connectionReestablished":"Connection reestablished.","resubmitScores":"Attempting to submit stored results.","offlineDialogHeader":"Your connection to the server was lost","offlineDialogBody":"We were unable to send information about your completion of this task. Please check your internet connection.","offlineDialogRetryMessage":"Retrying in :num....","offlineDialogRetryButtonLabel":"Retry now","offlineSuccessfulSubmit":"Successfully submitted results."}},"hubIsEnabled":1,"reportingIsEnabled":false,"libraryConfig":null,"pluginCacheBuster":"?r8w6xn","libraryUrl":"\/modules\/contrib\/h5p\/vendor\/h5p\/h5p-core\/js","user":{"name":"hongdong@hotmail.com","mail":"do-not-reply+38545@bms.yd.com"},"contents":{"cid-2906":{"library":"H5P.Column 1.13","jsonContent":"{\u0022content\u0022:[{\u0022content\u0022:{\u0022params\u0022:{\u0022text\u0022:\u0022\u003Cp\u003E\u003Cspan style=\\\u0022font-size:1.375em;\\\u0022\u003E\u003Cstrong\u003EWhy \u003C\\\/strong\u003Enovice drivers crash more often:\u003C\\\/span\u003E\u003C\\\/p\u003E\\n\\n\u003Cp\u003EA)\u003Cstrong\u003E Inappropriate Speed: \u003C\\\/strong\u003EThis is going to come up again and again throughout the course. Losing control of a vehicle is the most common deadly crash and this is often due to excessive speed. Speed limits are not chosen randomly, and new drivers struggle at times with controlling their emotions and urges.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EThe entertainment industry has done a lot to desensitize younger drivers. Whether through movies, video games or music, there are a lot of stimuli that create a challenging atmosphere for novice drivers. Speed is often shown as fun\\\/cool. If drivers want to drive quickly, they can look into becoming a race car driver where they get the required training and can indulge their desire to drive fast in an environment away from public roads.\u0026nbsp;\u003C\\\/p\u003E\\n\\n\u003Cp\u003EB) \u003Cstrong\u003ERisk Tolerance:\u003C\\\/strong\u003E Novice drivers often have a higher risk tolerance than is wise. This is often because they struggle to understand the consequences of their choices behind the wheel. Proper education is required to help novice drivers understand their role in the driving culture. Positive role-models are helpful in improving this understanding.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EC)\u003Cstrong\u003E Risk Perception:\u003C\\\/strong\u003E Novice drivers often have a higher risk tolerance because they don\u0027t see the dangers around them. They may not realize that the speeds they sometimes drive at are too fast for road conditions or the vehicle they\u0027re driving. They\u0027re late recognizing risks and slow to respond. Luckily, our course is dedicated to improving this key element in driver behaviour.\u003C\\\/p\u003E\\n\\n\u003Cp\u003ED)\u003Cstrong\u003E Inappropriate Risk Taking\u003C\\\/strong\u003E: Again, this is related to the above risk topics. A common example of this is when approaching a stop sign where there appears to be no other cars sharing the road. A novice driver may think it\u0027s fun or exciting to race through a stop sign or even a amber\\\/red light.\u0026nbsp;Driving safely and properly is sometimes seen as boring. However, novice drivers need to remember that risk taking has consequences.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EE) \u003Cstrong\u003EDriver Skill:\u003C\\\/strong\u003E As previously shown, more experienced drivers crash far less often than novice drivers. A part of this is certainly a lack of skill. Driver training is not mandatory in Canada and sometimes novice drivers learn from their parents or a poor driving school. They are never taught the important skills necessary to be a safe and co-operative driver.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EF)\u003Cstrong\u003E Driver Experience\u003C\\\/strong\u003E: As mentioned before, our plan is to give you the skills and understanding that a driver has after being on the road for years. This is done with many video and animation examples and detailed explanations of why crashes occur and how to avoid them.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EG) \u003Cstrong\u003EPeer Pressure:\u003C\\\/strong\u003E\u0026nbsp;Whether with passengers or not, its not always easy to shrug off what others say or want you to do. Having your bravery challenged or being told \u0027not to worry\u0027 is hard for some to ignore. Having fewer passengers can limit this risk of peer pressure,\u0026nbsp;which is why the MTO has rules about passengers for novice drivers. Plenty of data exists that shows the chances of a collision increasing with every passenger a driver has. The driver needs to remember that they\u0027re responsible for everything they do with the vehicle.\u0026nbsp;\u003C\\\/p\u003E\\n\\n\u003Cp\u003EH) \u003Cstrong\u003EOverconfidence\u003C\\\/strong\u003E: Overconfidence is a real danger for many drivers, not just novices. When surveyed, most drivers would say they\u0027re an 8 or better, on a scale of 1-10. The problem stems from the fact that driving is a fairly straightforward process if only considering the accelerator, brake and steering wheel. If you were the only driver on a road in perfect conditions at all times, that might be true. Of course, this is not the case. When considering how many drivers are in Ontario alone, the crash rate could be considered pretty low. It all depends on how you look at it. Many crashes go unreported so on an average day in Ontario more than 1000 collisions will happen. For those who are not involved in a collision it could be that they are driving well and that\u0027s great. However, there are some who have developed really bad habits and continue to have close calls that they may not even be aware of. They turn right at a light and cut off a cyclist who had the right of way but the driver never saw them. A good driver stays humble and looks to continue learning how to be a better driver each time they can.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EI) \u003Cstrong\u003EHazardous Driving Conditions:\u003C\\\/strong\u003E \\\u0022Ideal\\\u0022 driving conditions exist when you are driving in daylight, on a dry, straight, level, smooth road with light traffic. You have unrestricted visibility and excellent traction. In other words, most of the time, we drive in conditions that are \\\u0022adverse\\\u0022 to some degree. Therefore training is required to understand how to drive in those conditions. You also need to know what technologies your vehicle has and how to use them properly.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EJ)\u003Cstrong\u003E Poor Attention Management\u003C\\\/strong\u003E: Vehicle manufacturers have made the inside of modern vehicles into entertainment systems with large screens and tons of buttons. Its easy to see why this would make driving more difficult for any driver, especially a novice driver. One of our techniques teaches the driver to move their eyes every two seconds,\u0026nbsp;improving situational awareness both inside and outside the vehicle.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EK) \u003Cstrong\u003ENot Looking For Hazards: \u003C\\\/strong\u003EThis is often a problem of not knowing where to look and what to look for. Novice drivers need a strong foundation of what each road sign means. From there, novices can start to recognize the hazards earlier. The in-vehicle training will build on the foundation of theory, so the novice driver learns how to think like a more experience driver.\u003C\\\/p\u003E\\n\\n\u003Cp\u003EL) \u003Cstrong\u003EInability to Recognize Hazards:\u003C\\\/strong\u003E This is linked to the one above and often a problem related to inexperience.\u0026nbsp;\u003C\\\/p\u003E\\n\\n\u003Cp\u003EM)\u003Cstrong\u003E Distracted Driving\u003C\\\/strong\u003E: A driver who has all the skill and talent in the world is dangerous when allowing themselves to become distracted.\u0026nbsp;Distracted driving is considered to be a form of impairment, and is just as serious as alcohol or drugs. The education on distracted driving is more pervasive with social media today, but it has not sunk into the hearts and minds of drivers like the messaging of MADD did for alcohol. It took a generation of hard work to get people to understand that \u0027having one for the road\u0027\u0026nbsp;was a bad idea.\u0026nbsp;\u003C\\\/p\u003E\\n\\n\u003Cp\u003EN) \u003Cstrong\u003EDangerous Driving: \u003C\\\/strong\u003EThis is something that often comes from a driver being in a hurry. This involves taking extra risks and driving selfishly, thinking the only person they have to worry about is themselves. They sometimes do not understand how their actions affect those around them. The focus should be on making it clear to novice drivers that a vehicle is not a toy and they are not playing in a simulator where there are no consequences for crashing. Novices need to know they are part of a greater driving culture and they need to own up to their responsibilities. If they cannot do that then driving is not for them and that privilege will be taken away.\u003C\\\/p\u003E\\n\\n\u003Cp\u003E0)\u003Cstrong\u003E Impaired Driving:\u003C\\\/strong\u003E\u0026nbsp;Anything that inhibits our ability to drive is an impairment and can be physical, cognitive, or both.\u0026nbsp;There is a zero tolerance for impaired driving. Impaired driving includes a driver taking prescription medication and not understanding they cannot drive while on it.\u0026nbsp;Doctors and pharmacists are responsible for letting you know what you can have in your body when driving and in what dosages. It\u0027s your responsibility to ask questions and make the right choices.\u003C\\\/p\u003E\\n\u0022},\u0022library\u0022:\u0022H5P.AdvancedText 1.1\u0022,\u0022metadata\u0022:{\u0022contentType\u0022:\u0022Text\u0022,\u0022license\u0022:\u0022U\u0022,\u0022title\u0022:\u0022Default title\u0022},\u0022subContentId\u0022:\u0022002b2a31-cde1-418d-9d63-69d23f1f1c64\u0022},\u0022useSeparator\u0022:\u0022auto\u0022}]}","fullScreen":"0","exportUrl":"","embedCode":"\u003Ciframe src=\u0022https:\/\/my.yd.com\/h5p\/2906\/embed\u0022 width=\u0022:w\u0022 height=\u0022:h\u0022 frameborder=\u00220\u0022 allowfullscreen=\u0022allowfullscreen\u0022\u003E\u003C\/iframe\u003E","resizeCode":"\u003Cscript src=\u0022https:\/\/my.yd.com\/modules\/contrib\/h5p\/vendor\/h5p\/h5p-core\/js\/h5p-resizer.js\u0022 charset=\u0022UTF-8\u0022\u003E\u003C\/script\u003E","url":"https:\/\/my.yd.com\/h5p\/2906\/embed","metadata":{"title":"Default title","license":"U"},"contentUserData":[{"state":"{}"}],"displayOptions":{"frame":false,"export":false,"embed":false,"copyright":false,"icon":false,"copy":false}}}}},"user":{"uid":"38545","permissionsHash":"360ff3f0862e997984de4eb802e2dc43127f95b957a9370165cf2e5dead060dc"}}</script>
+
+<!--[if lte IE 9]>
+<script src="/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_tysrtgC1rHXNmSBNFdw4Jmg1rAX8JTL0iIRAZORghX0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
+<script src="/sites/default/files/js/js_aQQqk_zZWC0kYtxJxeV6LuurUkJS5wF4MdHi67tbRTs.js"></script>
+
+
+    <script>
+                  jQuery(function($) {
+        request = $.ajax({
+          url: "/tab_protect_guid/check",
+          type: "post",
+          data: window.name
+        });
+
+        request.done(function (response, textStatus, jqXHR){
+          if (response.data.block) {
+            var $myDialog = $('<div><p>Sorry, but you are logged into your student portal in another browser window or tab. You can only access your myYD portal and content from one window. Please close this tab/window to return to your content or logout below.</p><p class="text-center"><a href="/user/logout" class="btn btn-primary btn-xsmall">Logout</a></p></div>').appendTo('body');
+            Drupal.dialog($myDialog, {title: 'Content Lock', closeOnEscape: false, classes: {'ui-dialog': 'ui-corner-all ui-dialog-noncloseable'}, width: '33%'}).showModal();
+          }
+        });
+      });
+          </script>
+
+  </body>
+</html>

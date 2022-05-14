@@ -37,7 +37,7 @@
   <ul class="navbar-nav ml-auto">
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="https://my.yd.com/student/details" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <i class="icons8-icons8-user-male-circle"></i><span class="d-none d-md-inline-block">hongdong@hotmail.com</span>
+        <i class="icons8-icons8-user-male-circle"></i><span class="d-none d-md-inline-block"></span>
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         <a class="dropdown-item" href="https://my.yd.com/student/details">Profile</a>
